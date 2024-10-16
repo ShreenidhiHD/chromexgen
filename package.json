@@ -1,0 +1,16 @@
+{
+    "name": "chromexgen",
+    "version": "1.0.0",
+    "description": "Chrome extension boilerplate generator",
+    "main": "bin/cli.js",
+    "bin": {
+      "chromexgen": "./bin/cli.js"
+    },
+    "dependencies": {
+      "inquirer": "^8.0.0"
+    },
+    "scripts": {
+      "start": "node ./bin/cli.js"
+    }
+  }
+  

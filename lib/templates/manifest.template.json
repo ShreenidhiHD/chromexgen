@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "{{name}}",
+    "version": "1.0",
+    "permissions": [],
+    "background": {
+      "service_worker": ""
+    },
+    "action": {
+      "default_popup": ""
+    }
+  }
+  
